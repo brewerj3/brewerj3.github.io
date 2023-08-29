@@ -18,7 +18,7 @@ This is a network simulator that simulates hosts, switches and a domain server i
 <hr>
 
 <pre>
-Check out the documentation here https://www2.hawaii.edu/~brewerj3/ee205/Network_simulator/
+Check out the documentation <a href="https://www2.hawaii.edu/~brewerj3/ee205/Network_simulator/">here</a>
 </pre>
 
 <hr>
