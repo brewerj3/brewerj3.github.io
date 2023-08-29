@@ -2,7 +2,7 @@
   "basics": {
     "name": "Joshua Brewer",
     "label": "Student",
-    "picture": "https://github.com/kamberjohnson.png",
+    "picture": "https://avatars.githubusercontent.com/u/100174522",
     "email": "brewerj3@hawaii.edu",
     "phone": "808-927-6061",
     "website": "https://brewerj3.github.io",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
