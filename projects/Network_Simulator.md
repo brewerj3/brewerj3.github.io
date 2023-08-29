@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Network/network_example_square.jpg
 title: "Network Simulator"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A network simulator I developed for the EE 367 Lab."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/network_example.png">
 
 This is a network simulator that simulates hosts, switches and a domain server in c using forks.
 
