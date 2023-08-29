@@ -11,7 +11,7 @@ labels:
 summary: "A network simulator I developed for the EE 367 Lab."
 ---
 
-<img class="img-fluid" src="../img/network_example.png">
+<img class="img-fluid" src="../img/Network/network_example.png">
 
 This is a network simulator that simulates hosts, switches and a domain server in c using forks.
 
@@ -23,4 +23,3 @@ Check out the documentation <a href="https://www2.hawaii.edu/~brewerj3/ee205/Net
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
