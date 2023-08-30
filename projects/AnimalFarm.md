@@ -5,13 +5,14 @@ title: "Animal Farm"
 date: 2022
 published: true
 labels:
+- C
 - C++
 - GitHub
   summary: "A lab designed to teach basics of C, C++ and object-oriented programming. "
 ---
 <img class="img-fluid" src="../img/AnimalFarm/animal_farm_full.jpg">
 
-This lab shows object-oriented programming including inheritance.
+This lab shows object-oriented programming techniques including inheritance.
 
 <hr>
 
