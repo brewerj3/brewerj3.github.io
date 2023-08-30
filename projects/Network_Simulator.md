@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Network/network_example_square.jpg
+image: img/Network/network_example_square.png
 title: "Network Simulator"
 date: 2023
 published: true

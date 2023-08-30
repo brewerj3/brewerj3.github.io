@@ -11,3 +11,4 @@ labels:
 
 *My personal interests in software engineering.*
 
+I am interested in microcontrollers and data processing.
