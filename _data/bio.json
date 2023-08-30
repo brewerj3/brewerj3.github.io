@@ -38,6 +38,15 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "Safeway Inc",
+      "position": "multi-purpose clerk",
+      "startDate": "August 2015",
+      "endDate": "Present",
+      "summary": "Inventory management and stocking of shelves"
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
