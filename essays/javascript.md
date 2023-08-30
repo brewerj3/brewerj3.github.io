@@ -11,7 +11,7 @@ labels:
 
 <img width="200" class="rounded float-start pe-4" src="../img/javascript/JavaScript-logo.png">
 
-*Reflection on javascript after one week of learning.*
+*Loose typing in javascript, one week of learning*
 
 This week I learned the basics of javascript and have used it to solve several problems.  I have not used javascript before, my coding experience is with C, C++ and python.
 
