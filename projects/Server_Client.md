@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ServerClient
+image: img/server-client/server-client.png
 title: "Server Client Lab"
 date: 2023
 published: true
