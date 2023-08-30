@@ -9,7 +9,7 @@ labels:
 - Engineering
 ---
 
-<img width="1052" class="rounded float-start pe-4" src="../img/javascript/JavaScript-logo.png">
+<img width="200" class="rounded float-start pe-4" src="../img/javascript/JavaScript-logo.png">
 
 *Reflection on javascript after one week of learning.*
 
