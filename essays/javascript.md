@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Javascript"
+title: "Strict vs loose typing"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
