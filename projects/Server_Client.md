@@ -10,7 +10,7 @@ labels:
   - GitHub
 summary: "A lab designed to teach use of fork and communication between processes using sockets. "
 ---
-This lab implements a server that can send respond, and a client that connects to the server and can ask for documents.
+This lab implements a server that can send responses, and a client that connects to the server and can ask for documents.
 <hr>
 
 <pre>
