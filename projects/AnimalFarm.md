@@ -1,3 +1,4 @@
+---
 layout: project
 type: project
 image: img/AnimalFarm/animal_farm_full.jpg
