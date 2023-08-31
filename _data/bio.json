@@ -16,7 +16,8 @@
   "interests": [
     { "name": "Interactive media" },
     { "name": "Microcontrollers" },
-    { "name": "Naval history"}
+    { "name": "Naval history"},
+    { "name": "Software engineering"}
   ],
   "skills": [
     {
@@ -25,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Debian", "Windows", "Git/GitHub", "g++", "CMake" ]
     }
   ],
   "education": [
@@ -51,10 +52,19 @@
   "work": [
     {
       "company": "Safeway Inc",
-      "position": "multi-purpose clerk",
+      "position": "Multi-purpose clerk",
       "startDate": "August 2015",
       "endDate": "Present",
-      "summary": "Inventory management and stocking of shelves"
+      "summary": "Inventory management, stocking of shelves, general cleaning"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NSA Codebreaker Challenge 2022",
+      "website": "https://nsa-codebreaker.org/home",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Participated in the NSA Codebreaker Challenge 2022"
     }
   ],
   "references": [

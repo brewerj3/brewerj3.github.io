@@ -8,7 +8,7 @@ published: true
 labels:
   - C
   - GitHub
-summary: "A network simulator I developed for the EE 367 Lab."
+summary: "A network simulator developed for the EE 367 Lab."
 ---
 
 <img class="img-fluid" src="../img/Network/network_example.png">
