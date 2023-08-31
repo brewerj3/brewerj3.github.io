@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "brewerj3", "url": "http://github.com/brewerj3" },
-      { "network": "linkedin", "username": "brewerj3", "url": "www.linkedin.com/in/joshua-b-52503228a" }
+      { "network": "github", "username": "brewerj3", "url": "https://github.com/brewerj3" },
+      { "network": "linkedin", "username": "brewerj3", "url": "https://www.linkedin.com/in/joshua-b-52503228a" }
     ]
   },
   "interests": [
