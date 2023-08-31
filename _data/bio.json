@@ -10,17 +10,18 @@
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "brewerj3", "url": "http://github.com/brewerj3" },
-      { "network": "linkedin", "username": "brewerj3", "url": "Not Yet Available" }
+      { "network": "linkedin", "username": "brewerj3", "url": "www.linkedin.com/in/joshua-b-52503228a" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Microcontrollers" }
+    { "name": "Microcontrollers" },
+    { "name": "Naval history"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Javascript", "Python" ]
+      "keywords": [ "C Linux command line", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,6 +35,15 @@
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Windward Community College, Kaneohe, HI",
+      "area": "Natural Sciences (2021)",
+      "studyType": "Associates",
+      "startDate": "2015",
+      "endDate": "2021",
       "courses": [
       ]
     }
