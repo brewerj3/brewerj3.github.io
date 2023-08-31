@@ -28,6 +28,15 @@ If an integer 0 equals a empty string and also equals a string "0" why does a st
 console.log(2 + "2");       // Outputs string "22"
 console.log(2 - "2");       // Outputs integer 0
 ```
+For the last example the code below outputs true:
+```
+console.log(0 == "0");  // integer 0 equals string zero, outputs true
+console.log(0 == []);   // integer 0 equals empty array, outputs true
+```
+An integer 0 equals string "0", and integer 0 equals empty string.  It logically follows that string "0" should equal an empty string, since they both are equivalent to the integer 0.  This is not the case.
+```
+console.log("0" == []); // outputs false
+```
 This kind of loose conversion between datatypes can cause all sorts of problems when debugging code, and is why I prefer when there is a stricter typing inplace to protect against these errors.
 
 ## Compiled vs Interpreted/Just In Time
