@@ -12,7 +12,7 @@ labels:
 
 *My personal interests in software engineering.*
 
-### pi pico
+### Pi Pico
 
 The raspberry pi Pico is a small cheap microcontroller using a rp2040 processor. The rp2040 has a dual-core ARM Cortex-M0+ core clocked at 133 MHz.  I have been learning to use the raspberry pi Pico microcontroller recently.  This is an entirely self-taught process, and I am able to get the picot to do what I want.  Using the C SDK, I can control motors with the PWM controller and take input from buttons.  In the future I would like to be able to use the second core in the Pico, as the Pico uses a dual-core ARM processor.
 
