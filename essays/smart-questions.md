@@ -15,8 +15,12 @@ labels:
 
 ## What makes a question good?
 
-We have all heard the saying "There are not stupid questions.".  This is debatable but what I feel is not debatable is that there are bad questions and good questions.  So what makes a question good or bad?  
+We have all heard the saying "There are no stupid questions.".  This is debatable but what I feel is not debatable is that there are bad questions and good questions.  So what makes a question good or bad?  
 
 ## Bad Questions
 
 Let's start with what makes a bad question.  A bad question will result in poor answers, or perhaps none at all.  To make a bad question you can leave out context needed to get the answer you want.  Asking for a solution is not the same as asking for an answer.  Asking someone to just fix your code and showing no desire to learn is a good way to receive no responses.
+
+## Good Questions
+
+A good question is concise with no extra information.  Include necessary context, but don't add things like "I am  doing homework."  this just makes people less likely to help.
