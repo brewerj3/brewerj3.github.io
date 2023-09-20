@@ -8,11 +8,17 @@ published: false
 labels:
 - Coding
 - Standards
+- JavaScript
 ---
 
 *Coding Standards*
+
+add something here
+
+## Standards
 
 Coding standards are standards that dictate how code should be laid out.  This is not done to make the code executable, but rather to make it easily human-readable.  Rules regarding indentation and placement of brackets, as well as insertion of spaces all help humans to readily understand code.  Making such rules standardized helps keep the code readable, if there were no standard rules, people would have more difficulty reading code created by different developers.
 
 ### ESLint
 
+ESLint is a code analysis tool created to locate problems with formatting in javascript code.  It can be configured to the users wishes.  
