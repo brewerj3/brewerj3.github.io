@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-19
-published: false
+published: true
 labels:
 - Coding
 - Standards
@@ -13,7 +13,7 @@ labels:
 
 *Coding Standards*
 
-add something here
+There are 14 standards, we should make one standard that everyone can use.  There are now 15 standards.
 
 ## Standards
 
@@ -21,4 +21,4 @@ Coding standards are standards that dictate how code should be laid out.  This i
 
 ### ESLint
 
-ESLint is a code analysis tool created to locate problems with formatting in javascript code.  It can be configured to the users wishes.  
+ESLint is a code analysis tool created to locate problems with formatting in javascript code.  It can be configured to the users wishes.  This means that any organization can configure ESLint for their own purposes.  Personally I don't care for it, as it makes my use of the IntelliJ idea feature of Reformat File throw tons of errors.  I first started using JetBrains with the CLion IDE for c.  CLion shares a Reformat File feature with IntelliJ that can be used to change how a file is formatted with a simple button push.  As stated earlier, this conflicts with ESLint, and causes ESLint to recognize errors.  
