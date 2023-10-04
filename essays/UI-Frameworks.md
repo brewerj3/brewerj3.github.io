@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards"
+title: "User Input Frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-19
+date: 2023-10-04
 published: false
 labels:
 - Standards
