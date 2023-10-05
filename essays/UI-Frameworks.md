@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "User Input Frameworks"
+title: "UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: false
@@ -14,5 +14,5 @@ labels:
 
 <img width="200" class="rounded float-start pe-4" src="../img/bootstrap-logo.svg">
 
-*User Input Frameworks*
+*User Interaction Frameworks*
 
