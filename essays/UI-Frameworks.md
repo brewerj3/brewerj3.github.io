@@ -18,7 +18,7 @@ labels:
 
 ## HTML and CSS
 
-Hyper Text Markup Language(HTML) is the basis of the modern webpage, used to determine how content is arranged on webpages.  Cascading Style Sheets(CSS) are the way most webpages style documents.  Without CSS HTML is rendered as a black and white document, with hyperlinks usually being blue.  CSS alows the creator to give color and form to HTML.  CSS can be used to give HTML elements margins, padding, borders, and to position content on the webpage.
+Hyper Text Markup Language(HTML) is the basis of the modern webpage, used to determine how content is arranged on webpages.  Cascading Style Sheets(CSS) are the way most webpages style documents.  Without CSS HTML is rendered as a black and white document, with hyperlinks usually being blue.  CSS allows the creator to give color and form to HTML.  CSS can be used to give HTML elements margins, padding, borders, and to position content on the webpage.
 
 ## Bootstrap 5
 
