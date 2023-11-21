@@ -4,7 +4,7 @@ type: essay
 title: "Why I do not use AI"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
-published: false
+published: true
 labels:
 - AI
 ---
@@ -21,12 +21,8 @@ I enjoyed the WOD in this class and learned a lot completing them.  Using an AI 
 
 ## Impact on learning and understanding
 
-## Practical applications
-
-## Challenges and Opportunities
-
-## Comparative Analysis
-
-## Future Considerations
+Having decided to not use AI, I do not believe that I have been impacted in my learning of software development.
 
 ## Conclusions
+
+I have not used AI in this class in order to ensure that I learn the course material.  I do not plan to use AI anytime I want to learn something.
