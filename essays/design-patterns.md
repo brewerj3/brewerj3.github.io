@@ -11,7 +11,7 @@ labels:
 
 ## Design Patterns
 
-In coding there are different ways to achieve the same end result.  For example you could use object-oriented design patterns to create objets that can inherit traits from each other or use methods to change their own data.  A different option is procedural programming where a procedure is created to accomplish the goal, this can be done with functions or each procedure can be its own function.  Both of these options can reduce duplication of code to reduce file size and executable size.  
+In coding there are different ways to achieve the same end result.  For example, you could use object-oriented design patterns to create objets that can inherit traits from each other or use methods to change their own data.  A different option is procedural programming where a procedure is created to accomplish the goal, this can be done with functions or each procedure can be its own function.  Both of these options can reduce duplication of code to reduce file size and executable size.  
 
 ## My preference for Design Patterns
 
