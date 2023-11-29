@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Joshua Brewer",
+    "label": "Student",
+    "picture": "https://github.com/brewerj3.png",
+    "email": "brewerj3@hawaii.edu",
+    "phone": "808-927-6061",
+    "website": "https://brewerj3.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "brewerj3", "url": "https://github.com/brewerj3" },
+      { "network": "linkedin", "username": "brewerj3", "url": "https://www.linkedin.com/in/joshua-b-52503228a" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive Media" },
+    { "name": "Microcontrollers" },
+    { "name": "Naval History"},
+    { "name": "Software Engineering"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C Linux command line", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Debian", "Windows", "Git/GitHub", "g++", "CMake" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Windward Community College, Kaneohe, HI",
+      "area": "Natural Sciences (2021)",
+      "studyType": "Associates",
+      "startDate": "2015",
+      "endDate": "2021",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Safeway Inc",
+      "position": "Multi-purpose clerk",
+      "startDate": "August 2015",
+      "endDate": "Present",
+      "summary": "Inventory management, stocking of shelves, general cleaning"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NSA Codebreaker Challenge 2022",
+      "website": "https://nsa-codebreaker.org/home",
+      "position": "Participant",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Participated in the NSA Codebreaker Challenge 2022"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
