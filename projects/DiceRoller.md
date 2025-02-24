@@ -1,24 +1,24 @@
 ---
 layout: project
 type: project
-image: img/server-client/server-client.png
+image: img/DiceRoller/dice.jpg
 title: "Dice Roller"
 date: 2024
-published: false
+published: true
 labels:
   - C
   - GitHub
 summary: "A program to roll large numbers of dice for tabletop games."
 ---
 
-<img width="200" class="img-fluid" src="../img/server-client/server-client.png">
+<img width="200" class="img-fluid" src="../img/DiceRoller/dice.jpg">
 
-This lab implements a server that can send responses, and a client that connects to the server and can download documents.
+This is a simple dice rolling program for use in tabletop games, capable of rolling many dice of many sizes, summing the totals, or counting numbers of successes.
 <hr>
 
 
 <pre>
-Check out the documentation <a href="https://www2.hawaii.edu/~brewerj3/personal/Dice_Roller/">here</a>
+Check out the documentation created with Doxygen <a href="https://www2.hawaii.edu/~brewerj3/personal/Dice_Roller/">here</a>
+The GitHub repository is <a href="https://github.com/brewerj3/dice_roller_3"> here</a>
 </pre>
-
 <hr>
